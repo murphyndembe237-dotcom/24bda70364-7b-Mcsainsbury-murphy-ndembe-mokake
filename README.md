@@ -167,7 +167,7 @@ This project demonstrates how to use **Zustand for global state management** wit
 
 ## 👨‍💻 Author
 
-**Kenyi Oliver**
+**Murphy**
 
 ---
 
